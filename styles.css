@@ -1,4 +1,4 @@
-nav. {
+.nav {
   display: inline;
 }
 body,
@@ -11,10 +11,10 @@ h6 {
   font-family: Roboto, sans-serif;
 }
 
-home,
-about,
-resume,
-contact,
-work {
-  coulour: blue;
+.home,
+.about,
+.resume,
+.contact,
+.work {
+  color: blue;
 }
